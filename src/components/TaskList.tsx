@@ -1,5 +1,4 @@
 import { useState } from "react";
-import uuid from "uuid";
 
 import "../styles/tasklist.scss";
 
